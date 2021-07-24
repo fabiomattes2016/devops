@@ -1,5 +1,5 @@
 
-FROM node:slim
+FROM node:16.5.0-slim
 
 # Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
