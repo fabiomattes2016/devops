@@ -1,5 +1,5 @@
 	# Setar a imagem base como Ubuntu
-FROM redis
+FROM redis:6.2-buster
 
 	# Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
