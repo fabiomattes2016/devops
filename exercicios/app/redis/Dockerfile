@@ -1,5 +1,5 @@
 	# Setar a imagem base como Ubuntu
-FROM redis
+FROM redis:7-bullseye
 
 	# Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
