@@ -1,5 +1,5 @@
 	# Setar a imagem do nginx
-FROM nginx
+FROM nginx:1.23.1
 
 	# Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
