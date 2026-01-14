@@ -1,5 +1,5 @@
 	# Setar a imagem do nginx
-FROM nginx
+FROM nginx:1.29.4-trixie
 
 	# Autor/Mantenedor
 MAINTAINER Jonathan Baraldi
